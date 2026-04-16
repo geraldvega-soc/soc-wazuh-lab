@@ -24,7 +24,7 @@ Este documento cubre:
 - Detección de ataques web (SQLi, XSS, Directory Traversal)
 
 ### Procedimiento Vulnerability Detection
-Documento entregado al Director Giovanni como respuesta al incidente React2Shell:
+Documento entregado al Director Giovanni Morchio como respuesta al incidente React2Shell:
 - Habilitación del módulo en `ossec.conf`
 - Configuración del Wazuh Indexer
 - Configuración de agentes con Syscollector (hotfixes Windows)
