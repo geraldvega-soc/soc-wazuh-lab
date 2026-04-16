@@ -16,7 +16,7 @@ Documentación técnica elaborada durante la práctica laboral, orientada a proc
 ## 🔧 Detalle de guías
 
 ### Guía Dashboard Wazuh — Alertas Críticas
-Documento que cubre :
+este documento cubre:
 - Módulos críticos de Wazuh para detección de amenazas
 - Reglas para ataques de fuerza bruta SSH/RDP (IDs: 5712, 5551, 5763)
 - Reglas de File Integrity Monitoring (IDs: 550, 553, 554, 592)
