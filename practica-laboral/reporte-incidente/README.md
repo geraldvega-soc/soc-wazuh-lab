@@ -64,7 +64,7 @@ El servidor `nodo1-kh` fue comprometido mediante la vulnerabilidad crítica **Re
 
 | Archivo | Descripción |
 |---|---|
-| `Reporte_de_incidente_07-01-2026.docx` | Reporte enviado al Director |
+| `Reporte_de_incidente_07-01-2026.docx` | Reporte original para al Director |
 | `Habilitacion_Modulo_Vulnerability_Detection_Wazuh.docx` | Procedimiento implementado como respuesta al incidente |
 
 ---
