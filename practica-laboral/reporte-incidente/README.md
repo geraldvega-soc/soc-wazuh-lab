@@ -42,7 +42,7 @@ El servidor `nodo1-kh` fue comprometido mediante la vulnerabilidad crítica **Re
 
 ## 🔎 Evidencias detectadas en Wazuh
 
-- Múltiples intentos de autenticación sospechosos en el servidor afectado
+- Múltiples intentos de autenticación sospechosa en el servidor afectado
 - Accesos desde ubicaciones geográficas no habituales
 - Patrones de post-explotación:
   - Intentos de acceso a claves SSH
