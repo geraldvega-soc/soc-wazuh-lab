@@ -8,7 +8,7 @@ Notas de aprendizaje y metodología de trabajo como analista SOC nivel 1.
 
 | Archivo | Descripción |
 |---|---|
-| `anotaciones_WAZUH.docx` | Metodología completa de trabajo diario con Wazuh: revisión, investigación, respuesta y reportes |
+| `anotaciones_WAZUH.docx` | Metodología completa de trabajo diario con Wazuh: revisión, investigación, respuesta e reportes |
 
 ---
 
